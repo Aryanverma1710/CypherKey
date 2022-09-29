@@ -5,7 +5,7 @@ function vigenereKeyLength(key, msg) {
     }
     return key;
 }
-
+//dragon chutiya
 function vigenereEncrypt(msg, key){
     let table = "abcdefghijklmnopqrstuvwxyz";
     let res = "";
